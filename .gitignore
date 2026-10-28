@@ -1,0 +1,13 @@
+
+# Compiled executable
+lost_found
+lost_found.exe
+
+# Generated item records
+items.txt
+
+# macOS files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
